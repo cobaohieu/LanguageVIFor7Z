@@ -1,6 +1,7 @@
 # LanguageVIFor7Z
 Language Vietnamese For 7Z program
 
+<code>
 ;!@Lang2@!UTF-8!
 ;  2.30 :            : Tran Hong Ha
 ;  4.42 :            : Le Vu Hoang
@@ -496,3 +497,4 @@ Liên kế mạnh
 Liên kết Biểu tượng Tệp
 Biểu tượng Thư mục Liên kết
 Thư mục Liên kết 
+<code>
